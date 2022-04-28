@@ -18,10 +18,12 @@
 - Deve-se usar a API [PokéAPI](https://pokeapi.co/ "Api de pokémon") para obter os dados.
 
 ## O que deve ser feito
+
 1. Deve criar as seguintes páginas
-    - Login(Pública)
-    - Home(Privada)
+  	- Login(Pública)
+  	- Home(Privada)
 2. Renderizar uma lista de pokémons 
+	- Um dos pokémon deve ser o "Gengar"
 3. Exibir os ataques destes pokémons quando selecionados
 4. Alterar o ataque ~~de pelo menos um~~ dos pokémons
 5. Todos os testes devem ter sucesso 
